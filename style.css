@@ -4,6 +4,7 @@ body {
     padding: 0;
 }
 
+
 .navbar {
     background-color: #333;
     padding: 10px 0;
@@ -56,6 +57,7 @@ body {
 body{
    background-image: url(https://color-hex.org/colors/31363f.png);
     background-size: cover;
+    width: 100%;
 }
 h1{
     color: white;
@@ -195,7 +197,7 @@ h4{
     .container{
         position: absolute;
         top: -7%;
-        left:46%;
+        left:45%;
         width: 600px;
         background-color: rgb(49, 54, 63);
     }
